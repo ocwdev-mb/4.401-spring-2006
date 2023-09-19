@@ -1,0 +1,63 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Buildings"
+    ],
+    [
+      "Energy",
+      "Technology"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ]
+  ],
+  "legacy_uid": "7231da62-4afd-4df5-bd66-83dc91692540",
+  "instructors": {
+    "content": [
+      "45c822ab-3dc6-eb30-68c6-215062242639"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "88cc1886-840d-cfc3-38ee-7922806e2842",
+    "website": "4-401-introduction-to-building-technology-spring-2006"
+  },
+  "course_title": "Introduction to Building Technology",
+  "course_description": "The course aims at providing a fundamental understanding of the physics related to buildings and to propose an overview of the various issues that have to be adequately combined to offer the occupants a physical, functional and psychological well-being. Students will be guided through the different components, constraints and systems of a work of architecture. These will be examined both independently and in the manner in which they interact and affect one another.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.401",
+  "course_image_thumbnail": {
+    "content": "803f0edd-e89d-5432-1d94-4c7eb9163d5d",
+    "website": "4-401-introduction-to-building-technology-spring-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Image Gallery"
+  ],
+  "site_uid": "37f4bf0d-352b-4ba9-87d7-fec1ecd71859",
+  "site_short_id": "4.401-spring-2006",
+  "title": "Course Metadata"
+}
